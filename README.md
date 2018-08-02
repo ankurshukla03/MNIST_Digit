@@ -12,5 +12,6 @@
 Check the notebook [file](https://github.com/ankurshukla03/MNIST_Digit/blob/master/Digit_CNN.ipynb) for more information.
 
 # Model3
-- Using multiple convolutional layer and multiple fully connected layer in CNN.
+- Using 3 convolutional layer and 2 fully connected layer in CNN. Added batch normalization for better results in our second model.
+- Got 99.2% accuracy when submitted on Kaggle
 
