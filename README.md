@@ -7,4 +7,10 @@
 - Predicted Output on test dataset got 97% accuracy when submitted on kaggle.
 
 # Model2
-- Using a Convolutional Neural Network for increasing the accuracy from 98%. Check the notebook [file](https://github.com/ankurshukla03/MNIST_Digit/blob/master/Digit_CNN.ipynb) for more information.
+- Using a Convolutional Neural Network for increasing the accuracy from 98% to 99% on validation set. This model only had one convulational layer.
+- Got 98.5% accuray on test set when submitted on kaggle
+Check the notebook [file](https://github.com/ankurshukla03/MNIST_Digit/blob/master/Digit_CNN.ipynb) for more information.
+
+# Model3
+- Using multiple convolutional layer and multiple fully connected layer in CNN.
+
