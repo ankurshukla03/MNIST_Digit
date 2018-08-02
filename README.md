@@ -3,7 +3,8 @@
 - You can find dataset and more information about this [here](https://www.kaggle.com/c/digit-recognizer).
 
 # Model1
-- Predicted the Output using simple MLP(Multilayer perceptron) model. Used the 90-10% dataset for splitting into training and validation set. Check the code [here](https://github.com/ankurshukla03/MNIST_Digit/blob/master/Digit_MLP.ipynb). Got the accuracy of 98% from 95% when increased the number of epochs from 5 to 10.
+- Predicted the Output using simple MLP(Multilayer perceptron) model. Used the 90-10% dataset for splitting into training and validation set. Check the code [here](https://github.com/ankurshukla03/MNIST_Digit/blob/master/Digit_MLP.ipynb). Got the accuracy of 98% from 95% when increased the number of epochs from 5 to 10 on validation dataset.
+- Predicted Output on test dataset got 97% accuracy when submitted on kaggle.
 
 # Model2
 - Using a Convolutional Neural Network for increasing the accuracy from 98%. Check the notebook [file](https://github.com/ankurshukla03/MNIST_Digit/blob/master/Digit_CNN.ipynb) for more information.
