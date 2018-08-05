@@ -12,7 +12,7 @@
 Check the notebook [file](https://github.com/ankurshukla03/MNIST_Digit/blob/master/Digit_CNN.ipynb) for more information.
 
 # Model2 - CNN
-- Using 3 convolutional layer in CNN. Added batch normalization for better results in our second model.
+- Using 4 convolutional layer in CNN. Added batch normalization for better results in our second model.
 - Used Data Augmentation technique for generating more data.
-- Got 99.414% accuracy for prediction on test when submitted on Kaggle 
+- Got 99.514% accuracy for prediction on test when submitted on Kaggle 
 
