@@ -19,9 +19,12 @@ Check the notebook [file](https://github.com/ankurshukla03/MNIST_Digit/blob/mast
 # Model3 - CNN 
 - Using Emsemble of 10 CNNs
 - Got 99.7% accuracy when submitted on kaggle
-- Check the code [here](https://www.kaggle.com/ankurshukla03/mnist-using-ensemble-cnn-0-997)
+- Check the code [here](https://github.com/ankurshukla03/MNIST_Digit/blob/master/Ensemble_CNN.ipynb)
 
 # Model4 - FashionMNIST
-- Applied Model3 model on Fashion MNIST dataset. Check the dataset [here](https://www.kaggle.com/zalando-research/fashionmnist)
+- Applied Model3 model on Fashion MNIST dataset. Check the dataset [here](https://github.com/ankurshukla03/MNIST_Digit/blob/master/Ensemble_FMNIST.ipynb)
 - Got 92% accuracy when evaluated against test data
 - Check the code [here](https://www.kaggle.com/ankurshukla03/cnn-for-fashion-mnist)
+
+## Kaggle
+- Model 3 and model 4 are kernel on Kaggle. You can check [here](https://www.kaggle.com/ankurshukla03)
