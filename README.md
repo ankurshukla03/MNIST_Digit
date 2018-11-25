@@ -22,9 +22,9 @@ Check the notebook [file](https://github.com/ankurshukla03/MNIST_Digit/blob/mast
 - Check the code [here](https://github.com/ankurshukla03/MNIST_Digit/blob/master/Notebooks/Ensemble_CNN.ipynb)
 
 # Model 4 - FashionMNIST
-- Applied Model3 model on Fashion MNIST dataset. Check the dataset [here](https://github.com/ankurshukla03/MNIST_Digit/blob/master/Notebooks/Ensemble_FMNIST.ipynb)
+- Applied Model3 model on Fashion MNIST dataset. Check the dataset [here](https://www.kaggle.com/zalando-research/fashionmnist)
 - Got 92% accuracy when evaluated against test data
-- Check the code [here](https://www.kaggle.com/ankurshukla03/cnn-for-fashion-mnist)
+- Check the code [here](https://github.com/ankurshukla03/MNIST_Digit/blob/master/Notebooks/Ensemble_FMNIST.ipynb)
 
 ## Kaggle
 - Model 3 and model 4 are kernel on Kaggle. You can check [here](https://www.kaggle.com/ankurshukla03)
