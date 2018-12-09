@@ -23,7 +23,7 @@ from keras.layers import Conv2D, MaxPooling2D, ZeroPadding2D, GlobalAveragePooli
 from keras import backend as K
 K.set_image_dim_ordering('th')
 
-def model():
+def baseline_model():
     model = Sequential()
     model.add(Conv2D(filters=32, kernel_size=(3, 3), input_shape=(1, 28, 28), activation='relu',data_format='channels_first'))
     model.add(BatchNormalization())
@@ -55,7 +55,7 @@ def model():
 #Send the array value of the test image in 28,28 size
 # returns the predicted digit
 def prediction(newImage):
-    model = model()
+    model = baseline_model()
     model.load_weights('mnist_digit.h5')
     result = model.predict(newImage)
     result = np.argmax(result,axis=1)
